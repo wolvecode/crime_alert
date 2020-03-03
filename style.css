@@ -1,0 +1,135 @@
+body{
+    background-color: #2b2b2b;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.nav{
+    background-color: #DB4437;
+    width: 450px;
+    padding: 0.5px;
+    margin-left: 60%;
+    margin-top: 15px;
+}
+a{
+    text-decoration:none;
+    color: #fff;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 15px;
+    margin-right: 10px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    
+}
+
+li:hover {
+    background: #c23a2d;
+}
+
+.logo img{
+    height: 200px;
+    width:100%;
+}
+
+ .container{
+    height: 300px;
+    width: 800px;
+    background-color: #fff;
+    align-content: center;
+    margin: auto;
+    display: block;
+    text-align: center;
+    font-family: 'roboto';
+    font-weight: bold;
+}
+.align{
+    margin-top: 100px;
+    padding: 100px;
+    font-weight:bold;
+    font-family: sans-serif;
+}
+.container a{
+    display: block;
+}
+
+
+button{
+    width: 120px;
+    height: 40px;
+    font-weight: bolder;
+    border-radius: 29px;
+    background-color: #db4437;
+    border: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
+
+nav{
+    height: auto;
+    background-color: #2b2b2b;
+    margin: 0;
+    text-align: center;
+    text-decoration: #db4437;
+}
+.section_1{
+    justify-content: center;
+    display: flex;
+    color: white;
+    
+}
+.section_2{
+    padding-top: 40px;
+    justify-content: center;
+    display: flex;
+    color: white;
+    
+}
+.first{
+    border-radius: 8px;
+    border: #db4437 solid;
+    border-width: 0.5px;
+    width: 30%;
+    height: 320px;
+}
+.second{
+    border-radius: 8px;
+    border: #db4437 solid;
+    border-width: 0.5px;
+    margin-left: 30px;
+    width: 30%;
+    height: 320px;
+}
+.third{
+    border-radius: 8px;
+    border: #db4437 solid;
+    border-width: 0.5px;
+    margin-left: 30px;
+    width: 30%;
+    height: 320px;
+}
+.img{
+    width: 100%;
+    height: 170px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+h3{
+    padding-left: 12px;
+    color: #db4437;
+}
+
+span {
+    padding-left: 12px;
+}
+
+.but{
+    display: flex;
+    padding-top: 25px;
+    justify-content: center;
+}
+
